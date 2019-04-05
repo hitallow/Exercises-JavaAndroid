@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First aplication</string>
+    <string name="you_resp">Sua resposta</string>
+    <string name="corrigir">Corrigir</string>
+    <string name="jogo_tabuada">Jogo da tabuada</string>
+    <string name="opcao"> + </string>
+
+</resources>
