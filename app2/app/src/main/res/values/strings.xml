@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">app2</string>
+    <string name="go_to2activity">Ir para segunda activity</string>
 </resources>
